@@ -17,7 +17,21 @@
     "d3js"
   ],
   "author": "Swizec Teller",
+  "contributors": [
+    {
+      "name": "Swizec Teller",
+      "email": "swizec@swizec.com"
+    },
+    {
+      "name": "@micahstubbs",
+      "email": "micahstubbs@gmail.com"
+    }
+  ],
   "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/micahstubbs/react-particles-experiment.git"
+  },
   "dependencies": {
     "d3": "^3.5.16",
     "react": "^0.14.7",
