@@ -1,6 +1,7 @@
 # Animating with React, Redux, and d3
 
-![gif](http://i.imgur.com/21fRDFO.gifv)
+![particles gif](http://i.giphy.com/xT0GqrEIeEi8eQoImY.gif)
+
 
 That's a particle generator. It makes tiny circles fly out of where you click. Hold down your mouse and move around. The particles keep flying out of your cursor.
 
